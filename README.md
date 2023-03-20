@@ -11,16 +11,16 @@
 4. node.js
 5. Sequelize
 6. Koa
-7. MySQL数据库
+7. MySQL
 
 ## 二、开发环境
 
-1. 操作系统：Windows10
-2. 数据库：MySQL（v5.7.7-rc-log，版本号须大于5.7）
+1. 操作系统：Windows11
+2. 数据库：MySQL
 3. Web服务器：Nginx 
-4. 开发工具：Webstorm
+4. 开发工具：VSCode
 5. 系统基础环境：Node.js
-6. 浏览器：谷歌浏览器
+6. 浏览器：chrome
 
 ## 三、目录说明
 
